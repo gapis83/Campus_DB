@@ -20,5 +20,5 @@ Benefits:
 - Learning Analytics (gain insights into student performance and progress).
 
 Technical Specifications:
-Programming Language: SQL.
-DBMS: PostgreSQL (specify the supported version range, if applicable).
+- Programming Language: SQL;
+- DBMS: PostgreSQL (specify the supported version range, if applicable).
