@@ -1,0 +1,12 @@
+id,peer,recommendedpeer
+1,Frodo_Baggins,Gandalf_the_Grey
+2,Frodo_Baggins,Aragorn_son_of_Arathorn
+3,Gandalf_the_Grey,Boromir_son_of_Denethor_II
+4,Gandalf_the_Grey,Aragorn_son_of_Arathorn
+5,Gandalf_the_Grey,Boromir_son_of_Denethor_II
+6,Aragorn_son_of_Arathorn,Frodo_Baggins
+7,Legolas_Greenleaf,Boromir_son_of_Denethor_II
+8,Legolas_Greenleaf,Aragorn_son_of_Arathorn
+9,Legolas_Greenleaf,Frodo_Baggins
+10,Boromir_son_of_Denethor_II,Frodo_Baggins
+11,Boromir_son_of_Denethor_II,Legolas_Greenleaf

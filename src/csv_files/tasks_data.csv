@@ -1,0 +1,28 @@
+title,parenttask,maxxp
+C1_s21_Pool,,1300
+C2_s21_SimpleBashUnits,C1_s21_Pool,250
+C3_s21_String+,C2_s21_SimpleBashUnits,500
+C4_s21_Math,C3_s21_String+,300
+C5_s21_Decimal,C4_s21_Math,350
+C6_s21_Matrix,C5_s21_Decimal,200
+C7_s21_SmartCalc_v1.0,C6_s21_Matrix,500
+C8_s21_3DViewer_v1.0,C7_s21_SmartCalc_v1.0,750
+DO1_s21_Linux,C3_s21_String+,300
+DO2_s21_LinuxNetwork,DO1_s21_Linux,250
+DO3_s21_LinuxMonitoring_v1.0,DO2_s21_LinuxNetwork,350
+DO4_s21_LinuxMonitoring_v2.0,DO3_s21_LinuxMonitoring_v1.0,350
+DO5_s21_SimpleDocker,DO3_s21_LinuxMonitoring_v1.0,300
+DO6_s21_CICD,DO5_s21_SimpleDocker,300
+SQL1_s21_Boot_camp,C8_s21_3DViewer_v1.0,1500
+SQL2_s21_Info21_v1.0,SQL1_s21_Boot_camp,500
+SQL3_s21_RetailAnalitycs_v1.0,SQL2_s21_Info21_v1.0,500
+CPP1_s21_Matrixplus,C8_s21_3DViewer_v1.0,300
+CPP2_s21_Containers,CPP1_s21_Matrixplus,350
+CPP3_s21_SmartCalc_v2.0,CPP2_s21_Containers,600
+CPP4_s21_3DViewer_v2.0,CPP3_s21_SmartCalc_v2.0,750
+CPP7_s21_MLP,CPP4_s21_3DViewer_v2.0,700
+A1_s21_Maze,CPP7_s21_MLP,300
+A2_s21_SimpleNavigator v1.0,A1_s21_Maze,400
+A3_s21_Parallels,A2_s21_SimpleNavigator v1.0,300
+A6_s21_Transactions,A2_s21_SimpleNavigator v1.0,700
+A8_s21_Algorithmic_trading,A6_s21_Transactions,800
